@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0041/krp/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 題樵隱詞樵隱詩餘一卷信安毛平仲所作也平仲為人傲世自髙與時多忤獨與錫山尤遂初厚善臨終以書别之囑以志墓遂初既為墓志銘又序其集或病其詩文視樂府頗不逮其然豈其然乎乾道柔兆閹茂陽月永嘉王木叔題
+  hash: sha256:9e56710ad1e13ba00fb63c8d953a83ac57232226657590f80bd6829ea1a0b72b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0041_WYG_002-1a, image: WYG1488/WYG1488-0213a.png}
+metadata:
+  title: 西樵語業
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:15.450347'
+  juan_title: 題樵隠詞
+  source:
+    repository: kanripo
+    path: KR4j0041/KR4j0041_002.txt
+hash: sha256:30a42907ef237dc10f25e54563a56356d0852008cb7b2061c423f939cddfacc0
