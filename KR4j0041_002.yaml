@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 題樵隱詞樵隱詩餘一卷信安毛平仲所作也平仲為人傲世自髙與時多忤獨與錫山尤遂初厚善臨終以書别之囑以志墓遂初既為墓志銘又序其集或病其詩文視樂府頗不逮其然豈其然乎乾道柔兆閹茂陽月永嘉王木叔題
-  hash: sha256:9e56710ad1e13ba00fb63c8d953a83ac57232226657590f80bd6829ea1a0b72b
+  text: 題樵隠詞樵隠詩餘一巻信安毛平仲所作也平仲為人傲世自髙與時多忤獨與錫山尤遂初厚善臨終以書别之囑以志墓遂初既為墓誌銘又序其集或病其詩文視樂府頗不逮其然豈其然乎乾道柔兆閹茂陽月永嘉王木叔題
+  hash: sha256:08703c61c6091242755796ebaead21f5ad4759f29872d64fe3569564a941c6aa
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0041_WYG_002-1a, image: WYG1488/WYG1488-0213a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0041/KR4j0041_002.txt
-hash: sha256:30a42907ef237dc10f25e54563a56356d0852008cb7b2061c423f939cddfacc0
+hash: sha256:93dd70151f379cc9aa6c332221ed3d33bb1b88d6dae81929c2902678b8d21917
